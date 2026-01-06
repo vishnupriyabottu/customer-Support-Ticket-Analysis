@@ -76,3 +76,26 @@ An end-to-end Power BI project analyzing customer support ticket data to track r
 │
 ├── 📁 Dashboard
 │ └── Customer_Support_Ticket_Analysis.pbix
+
+
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Refresh data if required
+4. Use slicers to explore insights
+
+---
+
+## 📌 Conclusion
+This dashboard provides a comprehensive view of customer support operations and helps organizations improve resolution efficiency and customer satisfaction.
+
+---
+
+## 👩‍💻 Author
+**Vishnupriya Bottu**  
+Aspiring Data Analyst | Power BI | SQL | Excel  
+
+
