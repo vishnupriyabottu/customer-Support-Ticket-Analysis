@@ -1,6 +1,6 @@
 # customer-Support-Ticket-Analysis
 An end-to-end Power BI project analyzing customer support ticket data to track resolution efficiency, agent performance, customer satisfaction, and SLA compliance through interactive dashboards.
-## 🎯 Objectives
+##  Objectives
 - Track total tickets and resolution performance
 - Analyze tickets by priority, channel, and issue type
 - Evaluate agent performance using KPIs
@@ -9,12 +9,11 @@ An end-to-end Power BI project analyzing customer support ticket data to track r
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - Power BI
 - Power Query
 - DAX
 - CSV Dataset
-- GitHub
 
 ---
 
